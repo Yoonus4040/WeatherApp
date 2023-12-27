@@ -54,6 +54,3 @@ Weather data sourced from [OpenWeatherMap.org](https://openweathermap.org/)
 ---
 
 © 2023 Yoonus4040. All rights reserved.
-```
-
-Feel free to adjust any part of this template to better suit your project's branding and style.
